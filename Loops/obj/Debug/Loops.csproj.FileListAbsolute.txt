@@ -1,0 +1,14 @@
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\obj\Debug\Loops.pdb
+C:\Users\BERK\documents\visual studio 2017\Projects\CSharpCourse\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\BERK\Desktop\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\BERK\Desktop\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\BERK\Desktop\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\BERK\Desktop\CSharpCourse\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\BERK\Desktop\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\BERK\Desktop\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\BERK\Desktop\CSharpCourse\Loops\obj\Debug\Loops.pdb
