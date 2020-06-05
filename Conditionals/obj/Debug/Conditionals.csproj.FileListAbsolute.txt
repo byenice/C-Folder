@@ -1,0 +1,7 @@
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+c:\users\berk\documents\visual studio 2017\Projects\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
